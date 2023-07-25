@@ -1,0 +1,33 @@
+/*Kelsey's File for the weirdo webpage*/
+p {
+  color: #ff6633;
+  background-color: #ffffff;
+  font-size: 28px;
+}
+
+textarea {
+  color: white;
+  font-size: 16px;
+  background-color: DodgerBlue;
+  text-align: center;
+}
+
+table,
+th,
+td {
+  border: 10px solid DodgerBlue;
+  border-style: outset;
+  width: 50%;
+  text-align: center;
+  align: center;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 40px;
+}
+tr:hover {
+  background-color: #ff6633;
+}
+body {
+  background-color: #c9c9c9;
+  text-align: center;
+}
